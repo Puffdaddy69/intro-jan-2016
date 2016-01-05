@@ -1,6 +1,6 @@
 ## Roberto Galindo Ramirez ##
 
-** Ocupation **: Bioinformatician, Computational Biologist
+**Ocupation**: Bioinformatician, Computational Biologist
 
-** Location **: Mexico City
+**Location**: Mexico City
 
